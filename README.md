@@ -7,3 +7,6 @@ All the data should be put into folder named "Data" in the main directory holdin
 Raw  Bundesliga data as copy-pasted from source website should be cleaned with the prepared R script.
 
 The remaining tasks can be performed with the included Jupyter notebook. The data downloading and data preparation steps can also be performed separately using the two individual Python files.
+
+### Example visualization
+![relationship between temperature and total goals scored](https://github.com/floriancaro/weather-and-goals/blob/main/example.png?raw=true)
