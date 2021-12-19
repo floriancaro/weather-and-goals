@@ -9,4 +9,4 @@ Raw  Bundesliga data as copy-pasted from source website should be cleaned with t
 The remaining tasks can be performed with the included Jupyter notebook. The data downloading and data preparation steps can also be performed separately using the two individual Python files.
 
 ### Example visualization
-![relationship between temperature and total goals scored](https://github.com/floriancaro/weather-and-goals/blob/main/example.png?raw=true)
+![relationship between temperature and total goals scored](https://github.com/floriancaro/weather-and-goals/blob/main/example.jpg?raw=true)
